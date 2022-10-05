@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+  height: 100px;
+  background-color: #F51414;
+}
+
+header img{
+    height: 70px;
+    width: 70px;
+    padding-left: 10px ;
+    padding-top: 15px ;
+    float:left;
+}
+
+
+footer{
+    height: 90px;
+    background-color:  #402F3E;
+}
+footer p{
+color: white;
+}
+
+header h1{
+    padding-left: 250px;
+    color: white;
+}
+
+main p{
+    padding-bottom: 3px ;
+}
+main header{
+    background-color: #16DD2A;
+    height: 50px;
+}
+footer a{
+    color: white;
+    border: 5px solid;
+}
+main img{
+    height: 250px;
+    width: 400px ;
+}
